@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478825998608",
+    "firebase_url": "https://mazao-farm-app-default-rtdb.firebaseio.com",
+    "project_id": "mazao-farm-app",
+    "storage_bucket": "mazao-farm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478825998608:android:629cf5444435f6ca455d95",
+        "android_client_info": {
+          "package_name": "com.example.farmtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478825998608-da41kcbckbtudm77q04o96kpqmlf3fdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlY459If7E9RfFL_PME5NR3xfxNjsIdI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478825998608-da41kcbckbtudm77q04o96kpqmlf3fdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
